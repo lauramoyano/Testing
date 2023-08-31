@@ -45,6 +45,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+/demos/node_modules
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
